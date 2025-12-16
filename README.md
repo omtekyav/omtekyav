@@ -1,4 +1,11 @@
-<h3>Hi there, its Ömer! </h3> 🧠 I love architecting LLM-powered systems & clean software design <br>🔮 Interested in Large Language Models, RAG, AI/ML, NLP microservices, and MLOps  <br> 🌱 Computer Engineer | Full-Stack AI & Backend Engineer <br>🔭 Focused on building production-grade AI systems with strong engineering foundations
+<h3>Hi there, its Ömer! </h3>
+
+<ul>
+  <li>🧠 I love architecting LLM-powered systems & clean software design</li>
+  <li>🔮 Interested in Large Language Models (LLMs), RAG, AI/ML, NLP microservices, and MLOps</li>
+  <li>🌱 Computer Engineer | Full-Stack AI & Backend Engineer</li>
+</ul>
+
 
 
 
