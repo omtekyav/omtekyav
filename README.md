@@ -2,17 +2,20 @@
 
 
 
+<br><br>
+
 <table>
+  <tr>
+    <td align="center"><b>GitHub Stats</b></td>
+    <td align="center"><b>Top Langs</b></td>
+  </tr>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=omtekyav&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
+      <br/>
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=omtekyav&theme=default&hide_border=false" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omtekyav&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </td>
   </tr>
 </table>
-
-<br/>
-
-
