@@ -18,7 +18,7 @@ Specializing in **NLP Microservices**, **RAG Architectures**, and **MLOps**.
 
 <br>
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
